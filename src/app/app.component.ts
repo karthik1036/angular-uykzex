@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {}
-history
+history hiiiiii
 
 /*
 Copyright Google LLC. All Rights Reserved.
